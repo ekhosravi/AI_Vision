@@ -1,5 +1,5 @@
 # Artificial Intelligence_Vision
-this course I will learn : 
+In this course I  learned : 
   python,
   image processing,
   deep Learning,
