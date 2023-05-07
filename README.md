@@ -1,4 +1,4 @@
-# AI_Vision
+# Artificial_Vision
 this course I will learn : 
   python,
   image processing,
